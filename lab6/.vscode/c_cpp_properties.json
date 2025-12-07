@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "STM32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/../sys/CMSIS/Include",
+                "${workspaceFolder}/../sys/**",
+                "${workspaceFolder}/../lib/**"
+            ],
+            //"compilerPath": "/usr/bin/arm-none-eabi-gcc",// à régler peut être 
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-arm"
+        }
+    ],
+    "version": 4
+}

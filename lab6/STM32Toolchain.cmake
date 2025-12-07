@@ -1,0 +1,5 @@
+set(CMAKE_SYSTEM_NAME Generic)
+set(CMAKE_C_COMPILER /opt/st/stm32cubeclt_1.19.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc)
+set(CMAKE_CXX_COMPILER /opt/st/stm32cubeclt_1.19.0/GNU-tools-for-STM32/bin/arm-none-eabi-g++)
+set(CMAKE_ASM_COMPILER /opt/st/stm32cubeclt_1.19.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc)
+set(CMAKE_LINKER /opt/st/stm32cubeclt_1.19.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc)
